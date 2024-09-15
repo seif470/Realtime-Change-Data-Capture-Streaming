@@ -71,8 +71,3 @@ Before running this script, ensure you have the following installed:
    docker-compose down
    ```
 
-## Customization
-You can modify the Docker Compose file to suit your needs. For example, you might want to persist data in Postgres by adding a volume for the Postgres service.
-
-## Note
-This setup is intended for development and testing purposes. For production environments, consider additional factors like security, scalability, and data persistence.
